@@ -1,7 +1,5 @@
 function Tudoos()
 {
-    return(<div className="Tudoos">
-        <div className="card"></div>
-    </div>);
+    return(<h1 className="text-danger">401</h1>);
 }
 export default Tudoos;
